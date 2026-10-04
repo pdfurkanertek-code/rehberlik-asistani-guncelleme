@@ -2,8 +2,8 @@
   "surum": "2.10.0",
   "enAzKabuk": "2.10.0",
   "tarih": "2026-10-04",
-  "not": "Konu analizi, ek deneme analizleri, etkileşimli tur, yeni logo",
-  "boyut": 373368,
-  "sha256": "c0a27008e75b7364b1b27533912fd441bdfdf0f105135cc0d414381bf9e02460",
-  "imza": "ZS6B9yiC5jgTw9qtI237oC4gD7Bcdpn1U+0wvsltaPP15AJ8kBqM8aQgOd8cHx0Zakm3tTFGGS+EnIYo6zu8Bg=="
+  "not": "Konu analizi, ek analizler, etkilesimli tur, yeni logo, cihaza ozel PIN",
+  "boyut": 299880,
+  "sha256": "47f1bcefee101f009f40542e5335bc66339fcac27d589089f7911cf9a87b62f9",
+  "imza": "uCdYjGX3AHBP+kIFR8fHwC3EONdtQYxvhEYZIhnLhApKImgxTsNONDn4MhmqFYfaa00MFihuHU8kJMB/YdYuCQ=="
 }
