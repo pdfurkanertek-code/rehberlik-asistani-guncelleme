@@ -1,9 +1,9 @@
 {
-  "surum": "2.11.1",
+  "surum": "2.11.2",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-04",
-  "not": "Güncelleme hemen uygulanır; konu eşleştirme ve PDF alt satırı düzeltildi",
-  "boyut": 307295,
-  "sha256": "a161dbdb5c4c6aa75d66ed9d6a2cdb8378d633522a4bc8b89e932074e840c202",
-  "imza": "On1lhtn2eYXLSSD1poMWDMgUPHO4GL5r9GjLm0RBebVdVPfQGm0/vQaZqSIx3mxhIJhLEkLXiIWNX85ut6vGBg=="
+  "not": "Maarif Modeli konuları eklendi; yeni logo",
+  "boyut": 270012,
+  "sha256": "8101962888dde2057410c78340f9584d867a5513ebd761f8085d58b8a5bbe06d",
+  "imza": "BcERcqPisUl76CJtWL7B/XyxCMx4KCL7ut8ZQaDZXZ2f5lC9bU+wDcrFNe6avnkbdB4+LRvmdGcdiG1h/8evBQ=="
 }
