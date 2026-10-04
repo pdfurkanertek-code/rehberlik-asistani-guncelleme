@@ -1,9 +1,9 @@
 {
-  "surum": "2.10.0",
-  "enAzKabuk": "2.10.0",
+  "surum": "2.11.1",
+  "enAzKabuk": "2.11.0",
   "tarih": "2026-10-04",
-  "not": "Konu analizi, ek analizler, etkilesimli tur, yeni logo, cihaza ozel PIN",
-  "boyut": 299880,
-  "sha256": "47f1bcefee101f009f40542e5335bc66339fcac27d589089f7911cf9a87b62f9",
-  "imza": "uCdYjGX3AHBP+kIFR8fHwC3EONdtQYxvhEYZIhnLhApKImgxTsNONDn4MhmqFYfaa00MFihuHU8kJMB/YdYuCQ=="
+  "not": "Güncelleme hemen uygulanır; konu eşleştirme ve PDF alt satırı düzeltildi",
+  "boyut": 307295,
+  "sha256": "a161dbdb5c4c6aa75d66ed9d6a2cdb8378d633522a4bc8b89e932074e840c202",
+  "imza": "On1lhtn2eYXLSSD1poMWDMgUPHO4GL5r9GjLm0RBebVdVPfQGm0/vQaZqSIx3mxhIJhLEkLXiIWNX85ut6vGBg=="
 }
