@@ -1,9 +1,9 @@
 {
-  "surum": "2.11.2",
+  "surum": "2.12.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-04",
-  "not": "Maarif Modeli konuları eklendi; yeni logo",
-  "boyut": 270012,
-  "sha256": "8101962888dde2057410c78340f9584d867a5513ebd761f8085d58b8a5bbe06d",
-  "imza": "BcERcqPisUl76CJtWL7B/XyxCMx4KCL7ut8ZQaDZXZ2f5lC9bU+wDcrFNe6avnkbdB4+LRvmdGcdiG1h/8evBQ=="
+  "tarih": "2026-10-05",
+  "not": "Yıllık program EK-3 düzeninde ve zorunlu çalışmalarla; sınıf planında tatiller; Maarif konuları; etüt grupları raporu",
+  "boyut": 279803,
+  "sha256": "3705655dafaf97af08c6e0b65c64921a00695657750edbe348c361f388cced58",
+  "imza": "9CD0AKEGnGqDOge71X1TFnb9nG3XHMKWrHa11u0zyDn9Q0VkqT1+cS6V2MCKWBHwXVVSacddhmnxWsm4vbilBQ=="
 }
