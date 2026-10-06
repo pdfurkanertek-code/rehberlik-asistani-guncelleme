@@ -1,9 +1,9 @@
 {
-  "surum": "2.13.0",
+  "surum": "2.14.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-06",
-  "not": "Konular TYMM'den; karnede konu ve ayrıntılı analiz; açıklamalar; öğrenci fotoğrafı; konu düzeltme hatası giderildi",
-  "boyut": 328336,
-  "sha256": "19f8916743e2d2e16ac77e6b2e2e6eda8b9ace1ed47cde4b932625b8695c79a3",
-  "imza": "vUIjJl9/J5WJU1ZZLFRBNAbuwVWbMx8q58Gq5KL7LlMLvhUBfSQh7Q69rjf7j3JWw95n4q46Q5WpMjFrOW0VDw=="
+  "not": "Kayıt ve takip ekranında öğrenci fotoğrafı, fotoğrafa tıklayınca büyütme, kayıttan ORGM görüşme formu",
+  "boyut": 329314,
+  "sha256": "312bceaf29db03fc13cf94887b68bac4f586e8361374f8567f6f6e9340a1608b",
+  "imza": "OZpkJO7nAjUmHNTGUNwEznIFVy6BCzBPmOTJZ4am0xNhPR2IA2YgQhQakAKYylSA2bmqYl/gBM4jw1Gir64ADg=="
 }
