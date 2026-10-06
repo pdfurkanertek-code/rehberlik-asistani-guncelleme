@@ -1,9 +1,9 @@
 {
-  "surum": "2.12.0",
+  "surum": "2.13.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-05",
-  "not": "Yıllık program EK-3 düzeninde ve zorunlu çalışmalarla; sınıf planında tatiller; Maarif konuları; etüt grupları raporu",
-  "boyut": 279803,
-  "sha256": "3705655dafaf97af08c6e0b65c64921a00695657750edbe348c361f388cced58",
-  "imza": "9CD0AKEGnGqDOge71X1TFnb9nG3XHMKWrHa11u0zyDn9Q0VkqT1+cS6V2MCKWBHwXVVSacddhmnxWsm4vbilBQ=="
+  "tarih": "2026-10-06",
+  "not": "Konular TYMM'den; karnede konu ve ayrıntılı analiz; açıklamalar; öğrenci fotoğrafı; konu düzeltme hatası giderildi",
+  "boyut": 328336,
+  "sha256": "19f8916743e2d2e16ac77e6b2e2e6eda8b9ace1ed47cde4b932625b8695c79a3",
+  "imza": "vUIjJl9/J5WJU1ZZLFRBNAbuwVWbMx8q58Gq5KL7LlMLvhUBfSQh7Q69rjf7j3JWw95n4q46Q5WpMjFrOW0VDw=="
 }
