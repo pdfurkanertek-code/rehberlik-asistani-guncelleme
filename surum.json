@@ -1,9 +1,9 @@
 {
-  "surum": "2.14.2",
+  "surum": "2.14.3",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-07",
-  "not": "Kilit ekranındaki ibare kısaltıldı",
-  "boyut": 329381,
-  "sha256": "4e6225e265ce1c4bc3f5840e81ef9be6f6bb717b4df68b6aa703c6413d4efd55",
-  "imza": "fw92O3KWFwzvMCNAQjc8INs48Rv8sKgDi3+zet8ODXhNkubGhyV1JKDe7Yp498/hksyi3ONhgTMFPY4K+He1Bw=="
+  "not": "Kilit ekranındaki ibare kaldırıldı",
+  "boyut": 329354,
+  "sha256": "f7271fb1f57323d44473d55bcb3ddba6133b696cdf2ce35e6a815b2246b028fd",
+  "imza": "RHGGn8t8IwjDkTEOtKfcorJ+98pBmUM8jM0EFj8//GkyyQJzg6c9W5IdVhXpn5SeCzWGULApBmq+3gLY4byEDg=="
 }
