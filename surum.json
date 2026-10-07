@@ -1,9 +1,9 @@
 {
-  "surum": "2.14.1",
+  "surum": "2.14.2",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-07",
-  "not": "Geliştirici ibaresi; karne PDF'inde fotoğraf yok; izleyici ayarları sadeleşti",
-  "boyut": 329358,
-  "sha256": "1260dfeef7c0dbef8b7e7505cda3cc4f6848378cfbc8c39b57c6a8f237d2799a",
-  "imza": "RbKKX1lNFixwfg7e/zw5CvPP64SS/FU2jTLExqo9QYUldhPhXSOTWM3blcDHIT3ypr4pHXBzfLNJCnQrjxwNCw=="
+  "not": "Kilit ekranındaki ibare kısaltıldı",
+  "boyut": 329381,
+  "sha256": "4e6225e265ce1c4bc3f5840e81ef9be6f6bb717b4df68b6aa703c6413d4efd55",
+  "imza": "fw92O3KWFwzvMCNAQjc8INs48Rv8sKgDi3+zet8ODXhNkubGhyV1JKDe7Yp498/hksyi3ONhgTMFPY4K+He1Bw=="
 }
