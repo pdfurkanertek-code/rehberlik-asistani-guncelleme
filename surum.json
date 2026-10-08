@@ -1,9 +1,9 @@
 {
-  "surum": "2.15.1",
+  "surum": "2.15.2",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-08",
-  "not": "Yeni: boş takip formu (program hazırlamadan basılır)",
-  "boyut": 562075,
-  "sha256": "6391a697519a5e110a7991dd045857781af05c5f0dcf29b8395c6dcc68c44bc0",
-  "imza": "kvoR+Pmk9ty47ukAmtvdrogYWYoF8OmDkBBUqHq5ZoZKB/+F6YiqK4DwF//wWPFJF1tc379V5MgbDrWEWUoDDQ=="
+  "not": "Çalışma programı: otomatik doldur, derse tıklayınca ekleme, maddeye tıklayınca düzenleme",
+  "boyut": 563805,
+  "sha256": "58fea9fc8679c303a4a6d13e4e64a6f121c7a666c6806a3c5573a2a023567f65",
+  "imza": "xy4nUvy/LlXp/soigUZwz8VXMYI3KiwF21IAs8Fq9lnaSVfiQOhs5oWTpzHVRkj81ljwXtg7LMD09GyC5+u3Dg=="
 }
