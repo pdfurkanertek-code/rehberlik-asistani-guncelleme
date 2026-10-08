@@ -1,9 +1,9 @@
 {
-  "surum": "2.14.3",
+  "surum": "2.15.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-07",
-  "not": "Kilit ekranındaki ibare kaldırıldı",
-  "boyut": 329354,
-  "sha256": "f7271fb1f57323d44473d55bcb3ddba6133b696cdf2ce35e6a815b2246b028fd",
-  "imza": "RHGGn8t8IwjDkTEOtKfcorJ+98pBmUM8jM0EFj8//GkyyQJzg6c9W5IdVhXpn5SeCzWGULApBmq+3gLY4byEDg=="
+  "tarih": "2026-10-08",
+  "not": "Yeni: haftalık çalışma programı (deneme eksiklerinden öneri, PDF) ve soru çözüm takibi (takip formu, fotoğraftan okuma)",
+  "boyut": 561868,
+  "sha256": "69136e07f3555a8804d27f102689b3840584404f9a84376f0f2e4656598cf3bf",
+  "imza": "iC0Zjx5JBUgP9jcjtO/SBbXODLBdu6f1mqeQe7jSiMfaARzS7T9KsDlo7aFhtxig0dqI2bWlCjOOfrmTIlC1AQ=="
 }
