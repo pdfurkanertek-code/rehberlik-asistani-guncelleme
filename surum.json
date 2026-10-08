@@ -1,9 +1,9 @@
 {
-  "surum": "2.15.0",
+  "surum": "2.15.1",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-08",
-  "not": "Yeni: haftalık çalışma programı (deneme eksiklerinden öneri, PDF) ve soru çözüm takibi (takip formu, fotoğraftan okuma)",
-  "boyut": 561868,
-  "sha256": "69136e07f3555a8804d27f102689b3840584404f9a84376f0f2e4656598cf3bf",
-  "imza": "iC0Zjx5JBUgP9jcjtO/SBbXODLBdu6f1mqeQe7jSiMfaARzS7T9KsDlo7aFhtxig0dqI2bWlCjOOfrmTIlC1AQ=="
+  "not": "Yeni: boş takip formu (program hazırlamadan basılır)",
+  "boyut": 562075,
+  "sha256": "6391a697519a5e110a7991dd045857781af05c5f0dcf29b8395c6dcc68c44bc0",
+  "imza": "kvoR+Pmk9ty47ukAmtvdrogYWYoF8OmDkBBUqHq5ZoZKB/+F6YiqK4DwF//wWPFJF1tc379V5MgbDrWEWUoDDQ=="
 }
