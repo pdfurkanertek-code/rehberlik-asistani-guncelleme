@@ -1,9 +1,9 @@
 {
-  "surum": "2.16.2",
+  "surum": "2.16.3",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-09",
-  "not": "Öğrenci raporu PDF'inde Hedefe Giden Yol bölümü",
-  "boyut": 573169,
-  "sha256": "72f6804106857b7d66a81d63e2b0150d728eaa876ddab673d5b87eee578fbd21",
-  "imza": "egyF4OMaGmfD57YNOTMFEIKIQcM5ISMY6nuwYVOzuJEl8T+YEFjoic+JZQdF3Z+nB2G++Gwre+PtIjZuV/3pBw=="
+  "not": "Gelişim tablosunda standart sapma ve elle hesap; el yazısı okumada hata nedeni",
+  "boyut": 574110,
+  "sha256": "f81b3c53cf1b669479174bb20f8eeb81ae5f0d4ee94ddaa36f43eff7e57a771d",
+  "imza": "vEtJsQG8IC9Fgfe5QA/BgTvvqC4UaV2xoRkjUbPp/YtdTmXJlWiCEYRahl7BJ1UZJ8sAQSYQEvilGqQszjOrCQ=="
 }
