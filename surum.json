@@ -1,9 +1,9 @@
 {
-  "surum": "2.16.3",
+  "surum": "2.16.4",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-09",
-  "not": "Gelişim tablosunda standart sapma ve elle hesap; el yazısı okumada hata nedeni",
-  "boyut": 574110,
-  "sha256": "f81b3c53cf1b669479174bb20f8eeb81ae5f0d4ee94ddaa36f43eff7e57a771d",
-  "imza": "vEtJsQG8IC9Fgfe5QA/BgTvvqC4UaV2xoRkjUbPp/YtdTmXJlWiCEYRahl7BJ1UZJ8sAQSYQEvilGqQszjOrCQ=="
+  "not": "El yazısı okuma: noktalı (yeni tür) Gemini anahtarı",
+  "boyut": 574151,
+  "sha256": "1a4824c4bc4adebfff813c1ccd697217221431328704a7019336e09eac719c0f",
+  "imza": "veI38sx4xhAw/3Le2lhs5e/DK2S75kFnNQjaGm8szlkT+jbNTQ1XK17uZHpZJTnV/JyQoSB72JPRKSRSebTxBw=="
 }
