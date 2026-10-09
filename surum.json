@@ -1,9 +1,9 @@
 {
-  "surum": "2.16.1",
+  "surum": "2.16.2",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-09",
-  "not": "Trend: düşüş ve yükseliş eşit zorlukta nete göre (kolay denemede herkesin neti artınca yükseliş sayılmaz)",
-  "boyut": 572822,
-  "sha256": "8b0ed99c24129bf3612e25c25608e9837e7d92da43f47fe1131d6ae7cbfce0f0",
-  "imza": "6i8yFca/5b9fF9l7FsoTykvZLGcnGB+V4P5+TxC2OasKG+Lszfy1XZ2Pp+t7WRQjKD03xYTizMwE8E0kmDzKCg=="
+  "not": "Öğrenci raporu PDF'inde Hedefe Giden Yol bölümü",
+  "boyut": 573169,
+  "sha256": "72f6804106857b7d66a81d63e2b0150d728eaa876ddab673d5b87eee578fbd21",
+  "imza": "egyF4OMaGmfD57YNOTMFEIKIQcM5ISMY6nuwYVOzuJEl8T+YEFjoic+JZQdF3Z+nB2G++Gwre+PtIjZuV/3pBw=="
 }
