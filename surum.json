@@ -1,9 +1,9 @@
 {
-  "surum": "2.15.2",
+  "surum": "2.16.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-08",
-  "not": "Çalışma programı: otomatik doldur, derse tıklayınca ekleme, maddeye tıklayınca düzenleme",
-  "boyut": 563805,
-  "sha256": "58fea9fc8679c303a4a6d13e4e64a6f121c7a666c6806a3c5573a2a023567f65",
-  "imza": "xy4nUvy/LlXp/soigUZwz8VXMYI3KiwF21IAs8Fq9lnaSVfiQOhs5oWTpzHVRkj81ljwXtg7LMD09GyC5+u3Dg=="
+  "tarih": "2026-10-09",
+  "not": "Deneme analizi: eşit zorlukta net, karnede Hedefe Giden Yol (konu kazancı, sıra, üst basamak, kalıcı/unutulan konu), sınıf düzeyine göre deneme seçimi, soru takibinde çalışma ve deneme sonucu",
+  "boyut": 572297,
+  "sha256": "4f88564958e15aaa152a3de7d917e270a57132429a079b4b64bd8dc502258c23",
+  "imza": "r3LuMePgxnL8WqD9vlAUa3tQ5gm5TstfRv3qWsWvjdPQRD920TEVO8gaGROcEg9oQh6UbkrHOtLA7a2AkpsJBw=="
 }
