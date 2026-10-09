@@ -1,9 +1,9 @@
 {
-  "surum": "2.18.0",
+  "surum": "2.18.1",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-09",
-  "not": "Öğrenci sitesi: kişiye özel şifreli karne (Raporlar > Karne gönderimi)",
-  "boyut": 598266,
-  "sha256": "644931036c9f86848045e54edea975fd7e9b1b9b4e65c126ab59d36f548f6bd3",
-  "imza": "5WAwrVO7/ZaC677/TMQ2oIWWfdxcjDMp3c5j5/jhDMVilpz7/IbtlIlK9tcC5P9wni6v0JFqh3ZPZn+2EmKJCg=="
+  "not": "Şifre fişleri hemen hazırlanır; öğrenci sitesinde amblem",
+  "boyut": 598753,
+  "sha256": "25b655c15bfc29074425ee8ca32091521c753334ea9233c00ab59456b2256f7d",
+  "imza": "4rYUIaObXM1g4NoXd5ezp1ThDJCrqeU6aUgc1CghmVC0iXEXgedAz/P5Y/l2rQvIGAtxUx2zG083xfX32NIOBw=="
 }
