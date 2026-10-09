@@ -1,9 +1,9 @@
 {
-  "surum": "2.17.0",
+  "surum": "2.18.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-09",
-  "not": "Soru takibi: gün gün döküm, konu istatistiği, konu düzeyinde deneme karşılaştırması; 12 / TYT / AYT konu listeleri",
-  "boyut": 580571,
-  "sha256": "13cd08dab6b6f00eb996a3dd69e6dfb0daebe25b7369513e3a46f973e6c47aaa",
-  "imza": "XCoDErR0tfIq1bcRBuG/DvJbppyE1eEzf5f4PCiQKOLKt+gCl2o936mRwtHynNlyC2hHRzB6U+1FdjuU9kpiAg=="
+  "not": "Öğrenci sitesi: kişiye özel şifreli karne (Raporlar > Karne gönderimi)",
+  "boyut": 598266,
+  "sha256": "644931036c9f86848045e54edea975fd7e9b1b9b4e65c126ab59d36f548f6bd3",
+  "imza": "5WAwrVO7/ZaC677/TMQ2oIWWfdxcjDMp3c5j5/jhDMVilpz7/IbtlIlK9tcC5P9wni6v0JFqh3ZPZn+2EmKJCg=="
 }
