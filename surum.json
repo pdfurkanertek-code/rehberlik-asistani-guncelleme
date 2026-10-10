@@ -1,9 +1,9 @@
 {
-  "surum": "2.18.2",
+  "surum": "2.19.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-10",
-  "not": "Öğrenci sitesinde soru dökümünde kazanım",
-  "boyut": 598865,
-  "sha256": "ad7e062ca060c3a608697683df69e43070187944e9c878d4822c5110e0648af3",
-  "imza": "OVKRcizX83NeNRKUxzeNRj/39/pX7wjq0W+80GR7OW9OfSnCuvETl3Ulb2ccVMA81c+NHnwqW87AdLT/y4GwCg=="
+  "not": "Öğrenci sitesi: deneme dökümü basınca iner, yalnız değişen karne yüklenir",
+  "boyut": 600999,
+  "sha256": "812beea607d4125da7ae64d438df3503aae5bdca192fa14f9616f0def96632b9",
+  "imza": "Bf0XsQdsrIfk4AkIkcZAnBX5FEtQIY0g5PLVU38VGzFgU6vlE1SzkNZJ1lfEyNxpUecbEM0aswrHly0zQ/gPDw=="
 }
