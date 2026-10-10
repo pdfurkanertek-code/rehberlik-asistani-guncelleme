@@ -1,9 +1,9 @@
 {
-  "surum": "2.18.1",
+  "surum": "2.18.2",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-09",
-  "not": "Şifre fişleri hemen hazırlanır; öğrenci sitesinde amblem",
-  "boyut": 598753,
-  "sha256": "25b655c15bfc29074425ee8ca32091521c753334ea9233c00ab59456b2256f7d",
-  "imza": "4rYUIaObXM1g4NoXd5ezp1ThDJCrqeU6aUgc1CghmVC0iXEXgedAz/P5Y/l2rQvIGAtxUx2zG083xfX32NIOBw=="
+  "tarih": "2026-10-10",
+  "not": "Öğrenci sitesinde soru dökümünde kazanım",
+  "boyut": 598865,
+  "sha256": "ad7e062ca060c3a608697683df69e43070187944e9c878d4822c5110e0648af3",
+  "imza": "OVKRcizX83NeNRKUxzeNRj/39/pX7wjq0W+80GR7OW9OfSnCuvETl3Ulb2ccVMA81c+NHnwqW87AdLT/y4GwCg=="
 }
