@@ -1,9 +1,9 @@
 {
-  "surum": "2.19.0",
+  "surum": "2.19.1",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-10",
-  "not": "Öğrenci sitesi: deneme dökümü basınca iner, yalnız değişen karne yüklenir",
-  "boyut": 600999,
-  "sha256": "812beea607d4125da7ae64d438df3503aae5bdca192fa14f9616f0def96632b9",
-  "imza": "Bf0XsQdsrIfk4AkIkcZAnBX5FEtQIY0g5PLVU38VGzFgU6vlE1SzkNZJ1lfEyNxpUecbEM0aswrHly0zQ/gPDw=="
+  "tarih": "2026-10-13",
+  "not": "Katlanmış takip formu fotoğraftan okunur; serbest kâğıt okuma hızlandırıldı",
+  "boyut": 603218,
+  "sha256": "a8e202f3e7dbbf696262e39b57739b35c3a8a15a9c031e2a8f443098884c33be",
+  "imza": "8/xQa82btT86Ih6rTQcfVlH+7ey+ls63pwmTchzbDg2lrkErtquXwE3i7IiY2E/BF1CCfY0N7+DCt/hBYnE9Aw=="
 }
