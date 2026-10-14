@@ -1,9 +1,9 @@
 {
-  "surum": "2.20.0",
+  "surum": "2.21.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-14",
-  "not": "Kişiye özel çalışma programı: günlük süreye göre birkaç haftalık program, günlük rutin, işlenen konular, deneme eksiklerine göre konu ve aralıklı tekrar",
-  "boyut": 614292,
-  "sha256": "17fd2bc97442068b07634d1263a2167c2d358efbca2de748efb32b9dd1ebde5e",
-  "imza": "LNK9YriR9duQC57R42hPpChCXUvb2LRV0qMTz+jl9bwchzqRotwV1KxJPwQ5W4szdB1G29zvWjYvFWtBu6NZCQ=="
+  "not": "Çalışma programı: sınıfın ders programına göre plan, otomatik soru sayısı ve süre, plan sonrası düzenleme; TYT ve AYT analizlerde ayrı",
+  "boyut": 617936,
+  "sha256": "984e0b9a8472b8a222a098bcc70d6f8e1fe07703fc49cff556e0ad80007b46da",
+  "imza": "PEbfZKU7IkOvtUgu6ImERge9trtOCyJkz7c/hHX5qgykZNqtK6AJuvcUwGrHpa66IEDrio3S9R77L//ecDCrAg=="
 }
