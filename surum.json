@@ -1,9 +1,9 @@
 {
-  "surum": "2.22.2",
+  "surum": "2.22.3",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-14",
-  "not": "Gemini 400 hatası ve yarım kalan yapay zekâ yanıtları düzeltildi",
-  "boyut": 626315,
-  "sha256": "2416822ac1e050f14cc47d9fc040747ddcda3d9444c23b49e6c8623a07d4f5ac",
-  "imza": "+hbdnzY5gfEnbCuI9uClvULkSfvjoLdNt7UrkO13Wig4tQkaTZOXR4aMVVJv/Kw1PXy6pEq/JvWOwA5X9pr5CA=="
+  "not": "El yazısı okuma doğruluğu artırıldı; okuyan model pencerede görünür",
+  "boyut": 626658,
+  "sha256": "4cc344dd9a3f337b9d6a3865181b7b4971c6d48f411ee5bfc061c7e32d4f025e",
+  "imza": "fk5uXYYDXuz7gLt1zk0JaYwna/w36pAamfyjLsJEFfLw8caDy0VV6d4wJbC03YEs/UQWl9yf1UiDpYp8nZIACw=="
 }
