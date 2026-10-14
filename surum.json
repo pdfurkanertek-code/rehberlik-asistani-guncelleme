@@ -1,9 +1,9 @@
 {
-  "surum": "2.21.1",
+  "surum": "2.22.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-14",
-  "not": "11. sınıf konuları TYMM'den; çalışma programında 11. sınıf etiketi, şu an işlenen konu seçimi ya da konusuz",
-  "boyut": 622974,
-  "sha256": "782fca2b89a211b5beccf174f1bf04bfcb88afa09ebedb180907aad9e10993e3",
-  "imza": "X9bdaPDatMbhEz/cG3NZ3i1Qztal6QIdWYfIzxHr3nz2vxOooSVYqYDze03FPBCkN3AjFp+sLyuwWs0l1961CA=="
+  "not": "Küçük fotoğrafta takip formu okunur; yedek yapay zekâ (Groq)",
+  "boyut": 624984,
+  "sha256": "cc0d5576ccc5cec22b7f74bc795eb75b1f7d95b3a241ae2a09a91ed8f7a3b95e",
+  "imza": "bdd3bvrKPPMq02gbpu3saF1KUHtl0B2cXUMhpWPRxCsldC9+abl4sqJUdZPhNrWLSPcsp5ElalXNjl473twvBA=="
 }
