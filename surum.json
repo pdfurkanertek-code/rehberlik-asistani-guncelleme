@@ -1,9 +1,9 @@
 {
-  "surum": "2.23.1",
+  "surum": "2.24.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-14",
-  "not": "OpenRouter yoğunken beklemeden sonraki modele geçer",
-  "boyut": 628157,
-  "sha256": "920e208b2ddce3350d88cc8ffd1be34105ae491fe277e34389f5512baebdbeda",
-  "imza": "LrWli2I4b/luUhBRnCSEKMvrySkSOK4WCEmdEmtJl2UMVdE/c6hC3nferxCe/kw0Bv6dNumEvPJM7lTrkhOIBw=="
+  "not": "Deneme konu eşlemesi güçlendirildi (Din Kültürü, eski program kazanımları, boşta kazanım kalmaz); fotoğrafta konu/ders eşleme",
+  "boyut": 634265,
+  "sha256": "f174ecfdb8f351db9a2a7bf876b9b09b710f1dea85ef6ffdd3c94cae8605587d",
+  "imza": "NbQJ1zS0YstmbT4VTxG6LIF0R9mGuh66ZNGQMC2agl4PUAAAfeVWZ9eUUxnXR+vNnRhFBnBv+SSpl0lR+SiwBQ=="
 }
