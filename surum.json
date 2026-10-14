@@ -1,9 +1,9 @@
 {
-  "surum": "2.22.0",
+  "surum": "2.22.1",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-14",
-  "not": "Küçük fotoğrafta takip formu okunur; yedek yapay zekâ (Groq)",
-  "boyut": 624984,
-  "sha256": "cc0d5576ccc5cec22b7f74bc795eb75b1f7d95b3a241ae2a09a91ed8f7a3b95e",
-  "imza": "bdd3bvrKPPMq02gbpu3saF1KUHtl0B2cXUMhpWPRxCsldC9+abl4sqJUdZPhNrWLSPcsp5ElalXNjl473twvBA=="
+  "not": "Groq kotası korunur (bekleyip yeniden dener); Gemini yoğunken hafif modele geçer",
+  "boyut": 625646,
+  "sha256": "6ea3b005f3e0b6905211479d8121c4ebed88599cebdbab7fb4f0d3ed525aa37e",
+  "imza": "Bl4DNwq1ni8U365Rr0YX7jcl2Hnmr9YmT5+Xpzs81ZbISzE3toxasxT17BzPEuPRVEa8S/bfFvuwQ+VlKFRgCQ=="
 }
