@@ -1,9 +1,9 @@
 {
-  "surum": "2.21.0",
+  "surum": "2.21.1",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-14",
-  "not": "Çalışma programı: sınıfın ders programına göre plan, otomatik soru sayısı ve süre, plan sonrası düzenleme; TYT ve AYT analizlerde ayrı",
-  "boyut": 617936,
-  "sha256": "984e0b9a8472b8a222a098bcc70d6f8e1fe07703fc49cff556e0ad80007b46da",
-  "imza": "PEbfZKU7IkOvtUgu6ImERge9trtOCyJkz7c/hHX5qgykZNqtK6AJuvcUwGrHpa66IEDrio3S9R77L//ecDCrAg=="
+  "not": "11. sınıf konuları TYMM'den; çalışma programında 11. sınıf etiketi, şu an işlenen konu seçimi ya da konusuz",
+  "boyut": 622974,
+  "sha256": "782fca2b89a211b5beccf174f1bf04bfcb88afa09ebedb180907aad9e10993e3",
+  "imza": "X9bdaPDatMbhEz/cG3NZ3i1Qztal6QIdWYfIzxHr3nz2vxOooSVYqYDze03FPBCkN3AjFp+sLyuwWs0l1961CA=="
 }
