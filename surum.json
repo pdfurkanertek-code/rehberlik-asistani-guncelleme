@@ -1,9 +1,9 @@
 {
-  "surum": "2.22.3",
+  "surum": "2.22.4",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-14",
-  "not": "El yazısı okuma doğruluğu artırıldı; okuyan model pencerede görünür",
-  "boyut": 626658,
-  "sha256": "4cc344dd9a3f337b9d6a3865181b7b4971c6d48f411ee5bfc061c7e32d4f025e",
-  "imza": "fk5uXYYDXuz7gLt1zk0JaYwna/w36pAamfyjLsJEFfLw8caDy0VV6d4wJbC03YEs/UQWl9yf1UiDpYp8nZIACw=="
+  "not": "Takip formunda sayılar yapay zekâ okumasıyla; serbest kâğıda verilen takip formu doğru okunur",
+  "boyut": 627143,
+  "sha256": "3cefc5041afc98b1da5593df9df856c7603808f26890f40ccfcc6692fecdb817",
+  "imza": "f+uZWUTLcuL50j5HQifrcQUF5rVAsvlaB92Q3oVT/SkOXMoSpEHgNoXoANGZeo+lzoQu1tUq42/ifHK9oj3xBw=="
 }
