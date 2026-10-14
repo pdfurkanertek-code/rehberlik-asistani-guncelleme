@@ -1,9 +1,9 @@
 {
-  "surum": "2.22.4",
+  "surum": "2.23.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-14",
-  "not": "Takip formunda sayılar yapay zekâ okumasıyla; serbest kâğıda verilen takip formu doğru okunur",
-  "boyut": 627143,
-  "sha256": "3cefc5041afc98b1da5593df9df856c7603808f26890f40ccfcc6692fecdb817",
-  "imza": "f+uZWUTLcuL50j5HQifrcQUF5rVAsvlaB92Q3oVT/SkOXMoSpEHgNoXoANGZeo+lzoQu1tUq42/ifHK9oj3xBw=="
+  "not": "Gemini'ye ücretsiz alternatif: OpenRouter (yeni kurulum dosyasıyla)",
+  "boyut": 628024,
+  "sha256": "9ddc225b3e717fa261e3361edae61ce65c6a6c33ad6cceee1fd6f1352cbbf90f",
+  "imza": "J3ZnOhxHVus+9BtqL8Spm+6TM51nz6/YA9SEMxSb91nQD6TI9lrWc24PfyR113mXOvd2+CMb2pWALOHoWAECAQ=="
 }
