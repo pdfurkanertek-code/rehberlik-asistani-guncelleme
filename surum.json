@@ -1,9 +1,9 @@
 {
-  "surum": "2.22.1",
+  "surum": "2.22.2",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-14",
-  "not": "Groq kotası korunur (bekleyip yeniden dener); Gemini yoğunken hafif modele geçer",
-  "boyut": 625646,
-  "sha256": "6ea3b005f3e0b6905211479d8121c4ebed88599cebdbab7fb4f0d3ed525aa37e",
-  "imza": "Bl4DNwq1ni8U365Rr0YX7jcl2Hnmr9YmT5+Xpzs81ZbISzE3toxasxT17BzPEuPRVEa8S/bfFvuwQ+VlKFRgCQ=="
+  "not": "Gemini 400 hatası ve yarım kalan yapay zekâ yanıtları düzeltildi",
+  "boyut": 626315,
+  "sha256": "2416822ac1e050f14cc47d9fc040747ddcda3d9444c23b49e6c8623a07d4f5ac",
+  "imza": "+hbdnzY5gfEnbCuI9uClvULkSfvjoLdNt7UrkO13Wig4tQkaTZOXR4aMVVJv/Kw1PXy6pEq/JvWOwA5X9pr5CA=="
 }
