@@ -1,9 +1,9 @@
 {
-  "surum": "2.23.0",
+  "surum": "2.23.1",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-14",
-  "not": "Gemini'ye ücretsiz alternatif: OpenRouter (yeni kurulum dosyasıyla)",
-  "boyut": 628024,
-  "sha256": "9ddc225b3e717fa261e3361edae61ce65c6a6c33ad6cceee1fd6f1352cbbf90f",
-  "imza": "J3ZnOhxHVus+9BtqL8Spm+6TM51nz6/YA9SEMxSb91nQD6TI9lrWc24PfyR113mXOvd2+CMb2pWALOHoWAECAQ=="
+  "not": "OpenRouter yoğunken beklemeden sonraki modele geçer",
+  "boyut": 628157,
+  "sha256": "920e208b2ddce3350d88cc8ffd1be34105ae491fe277e34389f5512baebdbeda",
+  "imza": "LrWli2I4b/luUhBRnCSEKMvrySkSOK4WCEmdEmtJl2UMVdE/c6hC3nferxCe/kw0Bv6dNumEvPJM7lTrkhOIBw=="
 }
