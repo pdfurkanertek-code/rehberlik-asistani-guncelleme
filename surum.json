@@ -1,9 +1,9 @@
 {
-  "surum": "2.25.0",
+  "surum": "2.25.1",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-15",
-  "not": "Kişiye özel program yenilendi: öğrenciye göre eksik, ön koşul, aralıklı tekrar, deneme/telafi/yazılı günleri, kendiliğinden güncelleme, öğrenci rehberi, çok haftalı PDF",
-  "boyut": 649441,
-  "sha256": "204e2c3dbff031f5fe2cb34a21a6077f7215e701e0bfc7d1d122701cc6352147",
-  "imza": "QSo82xSkbEGUIQ7aJRnlNuQ9U/bTV5rHjn+cbhhhUOq5ALI8qSzh5JmDwBc2f+70XQuy0+m3mRjsXTdRfUv9Bg=="
+  "not": "Çok haftalı program PDF ve yazdırmada tek sayfada toplu görünür",
+  "boyut": 650588,
+  "sha256": "18c6810eec71bf279855a1a5250a0497a73c92cc20ecb5382181df2791673991",
+  "imza": "yM5CEr6Aq9Djpvu31waUgn3tr4CYV1jV4vSbP8Kg3MHc0/kwb7pc4vuh+YWD2lGvDhpvtUWXWS6Il9oafktWCg=="
 }
