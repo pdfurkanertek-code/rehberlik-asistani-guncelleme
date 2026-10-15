@@ -1,9 +1,9 @@
 {
-  "surum": "2.24.0",
+  "surum": "2.25.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-14",
-  "not": "Deneme konu eşlemesi güçlendirildi (Din Kültürü, eski program kazanımları, boşta kazanım kalmaz); fotoğrafta konu/ders eşleme",
-  "boyut": 634265,
-  "sha256": "f174ecfdb8f351db9a2a7bf876b9b09b710f1dea85ef6ffdd3c94cae8605587d",
-  "imza": "NbQJ1zS0YstmbT4VTxG6LIF0R9mGuh66ZNGQMC2agl4PUAAAfeVWZ9eUUxnXR+vNnRhFBnBv+SSpl0lR+SiwBQ=="
+  "tarih": "2026-10-15",
+  "not": "Kişiye özel program yenilendi: öğrenciye göre eksik, ön koşul, aralıklı tekrar, deneme/telafi/yazılı günleri, kendiliğinden güncelleme, öğrenci rehberi, çok haftalı PDF",
+  "boyut": 649441,
+  "sha256": "204e2c3dbff031f5fe2cb34a21a6077f7215e701e0bfc7d1d122701cc6352147",
+  "imza": "QSo82xSkbEGUIQ7aJRnlNuQ9U/bTV5rHjn+cbhhhUOq5ALI8qSzh5JmDwBc2f+70XQuy0+m3mRjsXTdRfUv9Bg=="
 }
