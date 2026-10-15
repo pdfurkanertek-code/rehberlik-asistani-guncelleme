@@ -1,9 +1,9 @@
 {
-  "surum": "2.25.2",
+  "surum": "2.25.3",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-15",
-  "not": "Önizlemede madde gerekçesi kutuda yazmaz, üzerine gelince görünür",
-  "boyut": 650589,
-  "sha256": "54f47b94c7adf34846229fadd067f528dde24f24a7322c748d67ff08272cbbf0",
-  "imza": "hgLk9P0VBo91vjVWYt2tCJWyK3LdvFje3s1k3RIARDKuqLhMLF6f+oQ+AWnwSKr13ekP+UOb6iuqC2rptCZaCA=="
+  "not": "Çok haftalı program yatay sayfada: sütunlar günler, satırlar haftalar",
+  "boyut": 650654,
+  "sha256": "7780e299509d33f009a700e2d2ed43322afa1057a3762ec03959ae4b3c62abcd",
+  "imza": "zKXHH5v+gikt0NqvcrWsNmbGQMP6hCJSh78JnxV0DxnhEesyUadOP0HdfGLFM0YS9ZbCCxxrNDlkg8RtKExtDw=="
 }
