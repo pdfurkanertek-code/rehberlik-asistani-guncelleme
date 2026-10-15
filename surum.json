@@ -1,9 +1,9 @@
 {
-  "surum": "2.25.3",
+  "surum": "2.25.4",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-15",
-  "not": "Çok haftalı program yatay sayfada: sütunlar günler, satırlar haftalar",
-  "boyut": 650654,
-  "sha256": "7780e299509d33f009a700e2d2ed43322afa1057a3762ec03959ae4b3c62abcd",
-  "imza": "zKXHH5v+gikt0NqvcrWsNmbGQMP6hCJSh78JnxV0DxnhEesyUadOP0HdfGLFM0YS9ZbCCxxrNDlkg8RtKExtDw=="
+  "not": "TYT sosyal dersleri de programa girer; toplu programın altında Hazırlayan",
+  "boyut": 651180,
+  "sha256": "509a8ced86eabf5876a3216e1ca4a460e9ba5b4bfe94a157ff3ec482e27020b0",
+  "imza": "/jszQ+z29uIVlrOwuWqdsc/VJYnY+6zonTOucA9hitVYrRnwYvA0ZzqKAGckosrS8/xCRR4s/VpcUH5vMRQECA=="
 }
