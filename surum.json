@@ -1,9 +1,9 @@
 {
-  "surum": "2.25.1",
+  "surum": "2.25.2",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-15",
-  "not": "Çok haftalı program PDF ve yazdırmada tek sayfada toplu görünür",
-  "boyut": 650588,
-  "sha256": "18c6810eec71bf279855a1a5250a0497a73c92cc20ecb5382181df2791673991",
-  "imza": "yM5CEr6Aq9Djpvu31waUgn3tr4CYV1jV4vSbP8Kg3MHc0/kwb7pc4vuh+YWD2lGvDhpvtUWXWS6Il9oafktWCg=="
+  "not": "Önizlemede madde gerekçesi kutuda yazmaz, üzerine gelince görünür",
+  "boyut": 650589,
+  "sha256": "54f47b94c7adf34846229fadd067f528dde24f24a7322c748d67ff08272cbbf0",
+  "imza": "hgLk9P0VBo91vjVWYt2tCJWyK3LdvFje3s1k3RIARDKuqLhMLF6f+oQ+AWnwSKr13ekP+UOb6iuqC2rptCZaCA=="
 }
