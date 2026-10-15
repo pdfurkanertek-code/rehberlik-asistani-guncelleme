@@ -1,9 +1,9 @@
 {
-  "surum": "2.25.4",
+  "surum": "2.25.5",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-15",
-  "not": "TYT sosyal dersleri de programa girer; toplu programın altında Hazırlayan",
-  "boyut": 651180,
-  "sha256": "509a8ced86eabf5876a3216e1ca4a460e9ba5b4bfe94a157ff3ec482e27020b0",
-  "imza": "/jszQ+z29uIVlrOwuWqdsc/VJYnY+6zonTOucA9hitVYrRnwYvA0ZzqKAGckosrS8/xCRR4s/VpcUH5vMRQECA=="
+  "not": "Her derste TYT ve AYT konuları sırayla gelir",
+  "boyut": 651437,
+  "sha256": "4b87540c721bb4b3139d270b852f3dc9bbb0e9ca0aab8e777bc6f11940fdbed9",
+  "imza": "vtnDJ81Yp5O1uClmYf2WaQYiNGDzUdEPBVoL8melNfXW1pXy5PLixP/VVZorOiUz734yfWxDfi7/4Axi0acuCA=="
 }
