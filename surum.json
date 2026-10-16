@@ -1,9 +1,9 @@
 {
-  "surum": "2.25.5",
+  "surum": "2.26.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-15",
-  "not": "Her derste TYT ve AYT konuları sırayla gelir",
-  "boyut": 651437,
-  "sha256": "4b87540c721bb4b3139d270b852f3dc9bbb0e9ca0aab8e777bc6f11940fdbed9",
-  "imza": "vtnDJ81Yp5O1uClmYf2WaQYiNGDzUdEPBVoL8melNfXW1pXy5PLixP/VVZorOiUz734yfWxDfi7/4Axi0acuCA=="
+  "tarih": "2026-10-16",
+  "not": "Kişiye özel program gün sayısıyla da hazırlanır; takip formu planın bütün haftaları için tek PDF; her PDF düğmesinin yanında önizlemeli Yazdır",
+  "boyut": 653642,
+  "sha256": "4d817a7eb2e224d0b50c44a52174de9fc40adf650873679596591be8bc9decae",
+  "imza": "IG+bSt3EjAZhEtmSlYN6J5hdrG9Z4jrw5jGb6ZH0qcIkbusQTEXRJe1I3fAJt2UwUjcoxJSRYT5ujbuNc0dIAQ=="
 }
