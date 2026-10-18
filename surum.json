@@ -1,9 +1,9 @@
 {
-  "surum": "2.26.1",
+  "surum": "2.27.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-16",
-  "not": "Her çıktıda tek düğme: önizleme açılır, oradan Yazdır ya da PDF kaydet",
-  "boyut": 653252,
-  "sha256": "e611ae19ee0f4fa898d6ce5b7cd67a3539bda334da535b18c7112c63b820bbd2",
-  "imza": "SJES4Bkre3R6I4FXaEdeZenpxz9XiEb1C7UlNKg9xeE1MTFiP3TXG8RO4wRl7UUY9EN027GG5wUqCrW5bs0uDQ=="
+  "tarih": "2026-10-18",
+  "not": "Branş denemesi ve yanlış götürme seçimi; YKS tahmini puan ve sıra (Denemeler → YKS puanı); silinen deneme öğrenci sitesinden de silinir",
+  "boyut": 683639,
+  "sha256": "bed3241a1f9332f62cf84ac4215bf17f62b1ec381399db3dee6b298294535819",
+  "imza": "hbM68lxaaL1WInJ2ethCVh582tmLIF/Q5JMEFk3ndrsQGQI+a37ADdedaflA+hfqINQijlFjcDttui9L/E5mAA=="
 }
