@@ -1,9 +1,9 @@
 {
-  "surum": "2.27.1",
+  "surum": "2.27.2",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-19",
-  "not": "YKS puanında deneme seçimi (tek, son 3, tümü ya da işaretlenen denemeler); yeni denemede ders satırı yalnız Branş seçilince görünür",
-  "boyut": 684817,
-  "sha256": "53470396f96068f5787b747e21032b0add05f05391c8a8146d903f376a9e280f",
-  "imza": "zHXpaBEDHfLypeGHCtdvM+mKdPZxLNb64GtTlDWqim/3AqFa+3VMC4ih2mhJEPA/jbgwwupudGPp5oODSc0iBw=="
+  "not": "YKS puanında bazı öğrencilerin denemeleri gelmiyordu (eşleştirmede düzeltilen numarasız öğrenciler) — düzeltildi; öğrenci sitesinde de aynı. YKS puanına öğrenci ve liste araması",
+  "boyut": 685380,
+  "sha256": "e2eecbb0b8928ebf6dbdee135e1d88c919e1b9b57ebff3abef153fe27bbf004c",
+  "imza": "WraeCTfLFuMwfigZU+Fet99gG+ynOJdnMwnAiOO5MbsjkUehtQsiUGVXj71PkprtW+iZYpcwvb2a6ehXvZ16Bw=="
 }
