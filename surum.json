@@ -1,9 +1,9 @@
 {
-  "surum": "2.27.3",
+  "surum": "2.27.4",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-19",
-  "not": "YKS puanı: toplu liste (tüm 12'ler/11'ler, seçilen denemeler herkese, okul içi sıra); diploma notu ve 'geçen yıl yerleşti' öğrenciye kaydedilir, listede de kullanılır",
-  "boyut": 687161,
-  "sha256": "e0b7c3aa8c98dd159f81e918685e8e57f8e377012405e6dc2b75a850b8880ddc",
-  "imza": "J8xu12rEgYLY8AiZeQsvAL6DH0W/bb8TOj15B7hfha0vQPVJCP68vSsxiKP5A/2s6gURYP/jSc/kc001R7eMDA=="
+  "not": "YKS sıralaması daha doğru (özellikle ilk 10 bin); 2023–2025'te üst sıralar yaklaşık (≈) işaretli; DİL puanı İngilizce YDT'ye göre",
+  "boyut": 688063,
+  "sha256": "7c4573842bbb5f7987b7362623b23f5ee6791d24bbe86a7b1b19edf60e053f60",
+  "imza": "rElXZc9eKksPu50MiLROGQItBhU4GyPSgUPE3jHuErGQv+/tyrX143vqlVYdyh8xEB1squ/w//VWxrczfhN+Bw=="
 }
