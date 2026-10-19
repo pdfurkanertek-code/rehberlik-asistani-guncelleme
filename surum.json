@@ -1,9 +1,9 @@
 {
-  "surum": "2.27.4",
+  "surum": "2.27.5",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-19",
-  "not": "YKS sıralaması daha doğru (özellikle ilk 10 bin); 2023–2025'te üst sıralar yaklaşık (≈) işaretli; DİL puanı İngilizce YDT'ye göre",
-  "boyut": 688063,
-  "sha256": "7c4573842bbb5f7987b7362623b23f5ee6791d24bbe86a7b1b19edf60e053f60",
-  "imza": "rElXZc9eKksPu50MiLROGQItBhU4GyPSgUPE3jHuErGQv+/tyrX143vqlVYdyh8xEB1squ/w//VWxrczfhN+Bw=="
+  "not": "YKS toplu liste başarı sırasına göre dizilir (TYT, SAY, EA, SÖZ, DİL seçilebilir)",
+  "boyut": 688111,
+  "sha256": "e7e724cd3efa843c010ae34a78f087d44cf145f7fa6563f6ca8468dc124358fe",
+  "imza": "N4OCjq2mn73drUZqpSNsZPc+Tj9+jAXyeeA4d9ycqjg7J+pDI1gft9UtNWYnUM8X7BlZ/AWqLwrYeF6kvc35Bw=="
 }
