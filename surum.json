@@ -1,9 +1,9 @@
 {
-  "surum": "2.27.0",
+  "surum": "2.27.1",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-18",
-  "not": "Branş denemesi ve yanlış götürme seçimi; YKS tahmini puan ve sıra (Denemeler → YKS puanı); silinen deneme öğrenci sitesinden de silinir",
-  "boyut": 683639,
-  "sha256": "bed3241a1f9332f62cf84ac4215bf17f62b1ec381399db3dee6b298294535819",
-  "imza": "hbM68lxaaL1WInJ2ethCVh582tmLIF/Q5JMEFk3ndrsQGQI+a37ADdedaflA+hfqINQijlFjcDttui9L/E5mAA=="
+  "tarih": "2026-10-19",
+  "not": "YKS puanında deneme seçimi (tek, son 3, tümü ya da işaretlenen denemeler); yeni denemede ders satırı yalnız Branş seçilince görünür",
+  "boyut": 684817,
+  "sha256": "53470396f96068f5787b747e21032b0add05f05391c8a8146d903f376a9e280f",
+  "imza": "zHXpaBEDHfLypeGHCtdvM+mKdPZxLNb64GtTlDWqim/3AqFa+3VMC4ih2mhJEPA/jbgwwupudGPp5oODSc0iBw=="
 }
