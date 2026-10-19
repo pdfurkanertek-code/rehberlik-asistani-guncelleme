@@ -1,9 +1,9 @@
 {
-  "surum": "2.27.2",
+  "surum": "2.27.3",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-19",
-  "not": "YKS puanında bazı öğrencilerin denemeleri gelmiyordu (eşleştirmede düzeltilen numarasız öğrenciler) — düzeltildi; öğrenci sitesinde de aynı. YKS puanına öğrenci ve liste araması",
-  "boyut": 685380,
-  "sha256": "e2eecbb0b8928ebf6dbdee135e1d88c919e1b9b57ebff3abef153fe27bbf004c",
-  "imza": "WraeCTfLFuMwfigZU+Fet99gG+ynOJdnMwnAiOO5MbsjkUehtQsiUGVXj71PkprtW+iZYpcwvb2a6ehXvZ16Bw=="
+  "not": "YKS puanı: toplu liste (tüm 12'ler/11'ler, seçilen denemeler herkese, okul içi sıra); diploma notu ve 'geçen yıl yerleşti' öğrenciye kaydedilir, listede de kullanılır",
+  "boyut": 687161,
+  "sha256": "e0b7c3aa8c98dd159f81e918685e8e57f8e377012405e6dc2b75a850b8880ddc",
+  "imza": "J8xu12rEgYLY8AiZeQsvAL6DH0W/bb8TOj15B7hfha0vQPVJCP68vSsxiKP5A/2s6gURYP/jSc/kc001R7eMDA=="
 }
