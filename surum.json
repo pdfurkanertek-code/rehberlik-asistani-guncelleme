@@ -1,9 +1,9 @@
 {
-  "surum": "2.27.5",
+  "surum": "2.28.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-19",
-  "not": "YKS toplu liste başarı sırasına göre dizilir (TYT, SAY, EA, SÖZ, DİL seçilebilir)",
-  "boyut": 688111,
-  "sha256": "e7e724cd3efa843c010ae34a78f087d44cf145f7fa6563f6ca8468dc124358fe",
-  "imza": "N4OCjq2mn73drUZqpSNsZPc+Tj9+jAXyeeA4d9ycqjg7J+pDI1gft9UtNWYnUM8X7BlZ/AWqLwrYeF6kvc35Bw=="
+  "tarih": "2026-10-23",
+  "not": "2.28.0: Karnede Deneme Karnesi; YKS puanında hedef program (gereken net); RİBA ve risk haritası sayfası; yıl sonu çalışma özeti (e-Rehberlik)",
+  "boyut": 1060993,
+  "sha256": "75004e57d8f7be528f6e6833ee4a0fb5af020b4ba4b14d0b8c656f91088bc10c",
+  "imza": "qXywN8synBI9gkOOWM11xbWiZ2ovBt7/U33DmBeafBfDfVXcEegZMWjapmN6h6lYd0mQa4trqMmvn0vc91XdAw=="
 }
