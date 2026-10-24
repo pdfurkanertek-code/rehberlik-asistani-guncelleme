@@ -1,9 +1,9 @@
 {
-  "surum": "2.30.0",
+  "surum": "2.30.1",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-24",
-  "not": "Maarif yıllık planı: şubede o hafta işlenen konu plandan; kişiye özel programda güne + ile ekleme; program silinince takip formu sıfırlanır",
-  "boyut": 1083538,
-  "sha256": "8ac0c3263f7d0a6bebebbeb9dc596eaae849f62f866e56d46789e6511326ef64",
-  "imza": "KDnuMmSUA8Byh/t7KIFayfKYPvp7XHkjIn6F826y0e89oNG/lHUEFC9Uaw0hjCG7y8Jak0ZBHCrr8A9wywGRAA=="
+  "not": "Kişiye özel programda maddenin konusunu elle değiştirme (✎)",
+  "boyut": 1084363,
+  "sha256": "ab2642fee2966f71b8de6042cffcd3a0a9ccf89af7a09553d17b0ab7806334c9",
+  "imza": "u6guo0jPI3vCHVgoBMQc5iz28oyVcvUDvl+mowoKcdEH2Vq5cVNXSz+LDax0rKmC3K1wozduXHoPaOEOJ4/qDw=="
 }
