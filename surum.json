@@ -1,9 +1,9 @@
 {
-  "surum": "2.29.0",
+  "surum": "2.30.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-24",
-  "not": "2.29.0: Eşitlemede otomatik birleştirme; kişiye özel programda kaldığı yerden devam, ders/konu çıkarınca öneri; soru takibinde TYT/AYT ayrımı; takip formu düzeltmeleri",
-  "boyut": 1068285,
-  "sha256": "50ff3894fa788bddf30d6e0837d2528b88ffe1de44912c1020aed4b5a07ac401",
-  "imza": "0YgEuPPIi/OajACHkX+Iu5f1ckeNr/+APDBSQzfWBj8+WwmeZoHry7tWaTc6K70A58HXtse4SDUt9tp5sTezCg=="
+  "not": "Maarif yıllık planı: şubede o hafta işlenen konu plandan; kişiye özel programda güne + ile ekleme; program silinince takip formu sıfırlanır",
+  "boyut": 1083538,
+  "sha256": "8ac0c3263f7d0a6bebebbeb9dc596eaae849f62f866e56d46789e6511326ef64",
+  "imza": "KDnuMmSUA8Byh/t7KIFayfKYPvp7XHkjIn6F826y0e89oNG/lHUEFC9Uaw0hjCG7y8Jak0ZBHCrr8A9wywGRAA=="
 }
