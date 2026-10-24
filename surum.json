@@ -1,9 +1,9 @@
 {
-  "surum": "2.28.0",
+  "surum": "2.29.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-23",
-  "not": "2.28.0: Karnede Deneme Karnesi; YKS puanında hedef program (gereken net); RİBA ve risk haritası sayfası; yıl sonu çalışma özeti (e-Rehberlik)",
-  "boyut": 1060993,
-  "sha256": "75004e57d8f7be528f6e6833ee4a0fb5af020b4ba4b14d0b8c656f91088bc10c",
-  "imza": "qXywN8synBI9gkOOWM11xbWiZ2ovBt7/U33DmBeafBfDfVXcEegZMWjapmN6h6lYd0mQa4trqMmvn0vc91XdAw=="
+  "tarih": "2026-10-24",
+  "not": "2.29.0: Eşitlemede otomatik birleştirme; kişiye özel programda kaldığı yerden devam, ders/konu çıkarınca öneri; soru takibinde TYT/AYT ayrımı; takip formu düzeltmeleri",
+  "boyut": 1068285,
+  "sha256": "50ff3894fa788bddf30d6e0837d2528b88ffe1de44912c1020aed4b5a07ac401",
+  "imza": "0YgEuPPIi/OajACHkX+Iu5f1ckeNr/+APDBSQzfWBj8+WwmeZoHry7tWaTc6K70A58HXtse4SDUt9tp5sTezCg=="
 }
