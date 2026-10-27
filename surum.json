@@ -1,9 +1,9 @@
 {
-  "surum": "2.30.2",
+  "surum": "2.31.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-24",
-  "not": "Denemeye TXT ile sonradan öğrenci ekleme; öğrenciyi denemeden silme",
-  "boyut": 1085102,
-  "sha256": "b9d0c3dc68e84debd2c250bd6add819308a41c7e15d68ca1315bfe91f80caace",
-  "imza": "52uxu+hLmf31n7ra2/KX+uFpExOBKCzBSirno/ayAiFAmfFOwj3ipGNZUrbiFysHMXRARCrlPbdPSrFr4LW5BA=="
+  "tarih": "2026-10-27",
+  "not": "Cevap anahtarında A ve B kitapçığını ayrı yazma şablonu (eski şablon da geçerli)",
+  "boyut": 1086174,
+  "sha256": "b93e5e036d28785f060a70f430ccb023280d4d0ad5901a6bc89b9d47bb308577",
+  "imza": "08PpTPuCLgwZ35C1K07MBw4KfPGbmUT/BmK3d4qSJoel1Fqd7HBvbkBmVqgX5TP4tjyx2DEPx+3J342mWbsiDw=="
 }
