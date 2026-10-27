@@ -1,9 +1,9 @@
 {
-  "surum": "2.31.1",
+  "surum": "2.31.2",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-27",
-  "not": "Cevap anahtarı şablonuna B Anahtarı sütunu: B'nin soru karşılığı öğrenci cevaplarından bulunur",
-  "boyut": 1088768,
-  "sha256": "1c090f6d7be7262ee27be9e7abd5768eb721e5676c19358c5c4ff41dc73ffde9",
-  "imza": "ZYBr+WscGqGLz+UenWvL1RyrY3OALArKsUYSAaATJpxeb4sC4mX0xs8FedbSgKgWaph/cDr3hbHoYo49twqgAg=="
+  "not": "Kilit açığı kapandı; B kitapçığı soru eşlemesi daha isabetli",
+  "boyut": 1089378,
+  "sha256": "12d8b472311e989e3b31a63b4262a25ea7de51bde44bda25cfc0a5468956475e",
+  "imza": "J6u6ESOCk45An4cxzP8v8ZqSEQaYGHr66e/LvZwa/F3It3qFRZXf+f/8Wx2EymHukvWhmjHEZaZZXKlfL6XFCg=="
 }
