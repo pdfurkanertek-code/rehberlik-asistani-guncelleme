@@ -1,9 +1,9 @@
 {
-  "surum": "2.31.0",
+  "surum": "2.31.1",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-27",
-  "not": "Cevap anahtarında A ve B kitapçığını ayrı yazma şablonu (eski şablon da geçerli)",
-  "boyut": 1086174,
-  "sha256": "b93e5e036d28785f060a70f430ccb023280d4d0ad5901a6bc89b9d47bb308577",
-  "imza": "08PpTPuCLgwZ35C1K07MBw4KfPGbmUT/BmK3d4qSJoel1Fqd7HBvbkBmVqgX5TP4tjyx2DEPx+3J342mWbsiDw=="
+  "not": "Cevap anahtarı şablonuna B Anahtarı sütunu: B'nin soru karşılığı öğrenci cevaplarından bulunur",
+  "boyut": 1088768,
+  "sha256": "1c090f6d7be7262ee27be9e7abd5768eb721e5676c19358c5c4ff41dc73ffde9",
+  "imza": "ZYBr+WscGqGLz+UenWvL1RyrY3OALArKsUYSAaATJpxeb4sC4mX0xs8FedbSgKgWaph/cDr3hbHoYo49twqgAg=="
 }
