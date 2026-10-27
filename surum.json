@@ -1,9 +1,9 @@
 {
-  "surum": "2.31.2",
+  "surum": "2.31.3",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-27",
-  "not": "Kilit açığı kapandı; B kitapçığı soru eşlemesi daha isabetli",
-  "boyut": 1089378,
-  "sha256": "12d8b472311e989e3b31a63b4262a25ea7de51bde44bda25cfc0a5468956475e",
-  "imza": "J6u6ESOCk45An4cxzP8v8ZqSEQaYGHr66e/LvZwa/F3It3qFRZXf+f/8Wx2EymHukvWhmjHEZaZZXKlfL6XFCg=="
+  "not": "B kitapçığı blok blok karıştırılmışsa da soru karşılıkları isabetli bulunur",
+  "boyut": 1089512,
+  "sha256": "d92feb233b5ec4dbf2caf22878bf1819087150dc5d45b15c668fa7edbe1a36cf",
+  "imza": "RblOiv9odZWVKg75lbZyYvuFG2n6xEu4H1MMjxepv/4BHrEXNGYcdp73eJbJwQ2pAG2x0OUnQRsdeovV3f3HBw=="
 }
