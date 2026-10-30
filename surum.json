@@ -1,9 +1,9 @@
 {
-  "surum": "2.31.3",
+  "surum": "2.32.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-27",
-  "not": "B kitapçığı blok blok karıştırılmışsa da soru karşılıkları isabetli bulunur",
-  "boyut": 1089512,
-  "sha256": "d92feb233b5ec4dbf2caf22878bf1819087150dc5d45b15c668fa7edbe1a36cf",
-  "imza": "RblOiv9odZWVKg75lbZyYvuFG2n6xEu4H1MMjxepv/4BHrEXNGYcdp73eJbJwQ2pAG2x0OUnQRsdeovV3f3HBw=="
+  "tarih": "2026-10-30",
+  "not": "TXT ile öğrenci eklerken okuma tanımı seçilebilir (farklı optik formlar)",
+  "boyut": 1089586,
+  "sha256": "a1f2d8ec96bb7a689c852bad9736ba43998c6b4c41ce5c33e8eb654dccb2a772",
+  "imza": "ajDCsrdniJYZn74DgHuIT6b6SCTlBamdSShnFx+dXtxHmZw424NMQaQRwp+srZfTBS+VkJqSLIWo9KLJ74EnBw=="
 }
