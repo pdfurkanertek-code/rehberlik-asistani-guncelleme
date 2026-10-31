@@ -1,9 +1,9 @@
 {
-  "surum": "2.32.0",
+  "surum": "2.33.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-30",
-  "not": "TXT ile öğrenci eklerken okuma tanımı seçilebilir (farklı optik formlar)",
-  "boyut": 1089586,
-  "sha256": "a1f2d8ec96bb7a689c852bad9736ba43998c6b4c41ce5c33e8eb654dccb2a772",
-  "imza": "ajDCsrdniJYZn74DgHuIT6b6SCTlBamdSShnFx+dXtxHmZw424NMQaQRwp+srZfTBS+VkJqSLIWo9KLJ74EnBw=="
+  "tarih": "2026-10-31",
+  "not": "Veri güvenliği: öğrenci silme tamamlandı, izleyicide şifreleme, kilit deneme sınırı, mezun silme; öğrenci sitesi kapatıldı",
+  "boyut": 1091442,
+  "sha256": "8482a6d790156aa48a6ccabd6bf07de41caf0628c3440a3e37d2151b567f4a6d",
+  "imza": "X3KEcHGv85ts2EvYLBdQMaj30syXaeJuo2Q1lOKovUatVxXXDzttNXGIqTlIJChmrwNQlBoWnFWg34hth+3PDQ=="
 }
