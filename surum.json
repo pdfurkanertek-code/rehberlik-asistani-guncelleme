@@ -1,9 +1,9 @@
 {
-  "surum": "2.34.0",
+  "surum": "2.34.1",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-31",
   "not": "Güvenlik güncellemesi: kilit ekranı, fotoğraf şifreleme ve veri koruması güçlendirildi.",
-  "boyut": 1092082,
-  "sha256": "6358970d0389b6ecfc2a1954af34978d9daa95388a58d0d7786557e751945ccd",
-  "imza": "o1lfPtD4q6Z/6DOyr0qWhBpxhKDx1f4ICFTvv5lYPBqQ7sxXJ0Vx9y7J/7YvUQ51ON60ozdK2+275NXIDyDECQ=="
+  "boyut": 1092753,
+  "sha256": "7a76bc43696e9fd591c6a8b33b720b3858ead0af8fae2b01b43798be37499170",
+  "imza": "ff/ij4hcoTXt4tJsV1FkLCdqvo7BLNTWYxE50yc5hENDsXvPwMX51fDWgbZl2+o5HdLrU2+eNOLB0f+VtMSJBw=="
 }
