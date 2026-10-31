@@ -1,9 +1,9 @@
 {
-  "surum": "2.33.0",
+  "surum": "2.34.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-10-31",
-  "not": "Veri güvenliği: öğrenci silme tamamlandı, izleyicide şifreleme, kilit deneme sınırı, mezun silme; öğrenci sitesi kapatıldı",
-  "boyut": 1091442,
-  "sha256": "8482a6d790156aa48a6ccabd6bf07de41caf0628c3440a3e37d2151b567f4a6d",
-  "imza": "X3KEcHGv85ts2EvYLBdQMaj30syXaeJuo2Q1lOKovUatVxXXDzttNXGIqTlIJChmrwNQlBoWnFWg34hth+3PDQ=="
+  "not": "Güvenlik güncellemesi: kilit ekranı, fotoğraf şifreleme ve veri koruması güçlendirildi.",
+  "boyut": 1092082,
+  "sha256": "6358970d0389b6ecfc2a1954af34978d9daa95388a58d0d7786557e751945ccd",
+  "imza": "o1lfPtD4q6Z/6DOyr0qWhBpxhKDx1f4ICFTvv5lYPBqQ7sxXJ0Vx9y7J/7YvUQ51ON60ozdK2+275NXIDyDECQ=="
 }
