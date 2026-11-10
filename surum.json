@@ -1,9 +1,9 @@
 {
-  "surum": "2.35.0",
+  "surum": "2.36.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-11-10",
-  "not": "Kişiye özel program yeniden düzenlendi: 9-10 okul ağırlıklı, sosyal dersler, gerçekçi süre, TYT konu sınırı, ders ve konu seçimi. Maarif denemelerinde konunun sınıf düzeyi düzeltildi.",
-  "boyut": 1102844,
-  "sha256": "765a9ac422545b7f9dcb0f0664bed9ef02c83ced63fddd29887fefb545f43e07",
-  "imza": "BIUD2TZmbhKjldQd/vzW8pu/hnwnHA1RCaB2D3Js8RmjcFPcysQokvTSQY+Qmnn9uoonforettCLL6x4oecVDw=="
+  "not": "Kişiye özel program: TYT konuları tik ile seçiliyor (11’de 9 ve 10 ayrı), Matematik her gün, maddede en çok kaçırılan kazanım, verisiz konuda ilk geçiş, günde bir sosyal ders.",
+  "boyut": 1105032,
+  "sha256": "f1d8db8a4ebc774ea784de9c9e62d4beba4f6170c6dafb1dd1b02b4b2c6e3ba0",
+  "imza": "IFJMb/qatJBT2AceNC12ys2v3EWh+u3sserhHlOjMGaRWflRDQixPNVDet8P+LRQ2mu0tsTSruEVAazuzSnDBg=="
 }
