@@ -1,9 +1,9 @@
 {
-  "surum": "2.34.1",
+  "surum": "2.35.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-10-31",
-  "not": "Güvenlik güncellemesi: kilit ekranı, fotoğraf şifreleme ve veri koruması güçlendirildi.",
-  "boyut": 1092753,
-  "sha256": "7a76bc43696e9fd591c6a8b33b720b3858ead0af8fae2b01b43798be37499170",
-  "imza": "ff/ij4hcoTXt4tJsV1FkLCdqvo7BLNTWYxE50yc5hENDsXvPwMX51fDWgbZl2+o5HdLrU2+eNOLB0f+VtMSJBw=="
+  "tarih": "2026-11-10",
+  "not": "Kişiye özel program yeniden düzenlendi: 9-10 okul ağırlıklı, sosyal dersler, gerçekçi süre, TYT konu sınırı, ders ve konu seçimi. Maarif denemelerinde konunun sınıf düzeyi düzeltildi.",
+  "boyut": 1102844,
+  "sha256": "765a9ac422545b7f9dcb0f0664bed9ef02c83ced63fddd29887fefb545f43e07",
+  "imza": "BIUD2TZmbhKjldQd/vzW8pu/hnwnHA1RCaB2D3Js8RmjcFPcysQokvTSQY+Qmnn9uoonforettCLL6x4oecVDw=="
 }
