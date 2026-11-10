@@ -1,9 +1,9 @@
 {
-  "surum": "2.36.0",
+  "surum": "2.37.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-11-10",
-  "not": "Kişiye özel program: TYT konuları tik ile seçiliyor (11’de 9 ve 10 ayrı), Matematik her gün, maddede en çok kaçırılan kazanım, verisiz konuda ilk geçiş, günde bir sosyal ders.",
-  "boyut": 1105032,
-  "sha256": "f1d8db8a4ebc774ea784de9c9e62d4beba4f6170c6dafb1dd1b02b4b2c6e3ba0",
-  "imza": "IFJMb/qatJBT2AceNC12ys2v3EWh+u3sserhHlOjMGaRWflRDQixPNVDet8P+LRQ2mu0tsTSruEVAazuzSnDBg=="
+  "not": "Kişiye özel program: Görüşme formu (zayıf konular, kurs günleri, kaynak, hafif gün, not; şube için de), rehber sayfasında cümle gerekçeler ve görüşme bölümü.",
+  "boyut": 1107789,
+  "sha256": "849468bc0b3bb3310fb403f4800de5bd1112d303be5ce308601981d9dd2911d2",
+  "imza": "WM39pipYXJD6mZoVlDFkZkR9YkZwv0XzPg/sv3VaRPvvCcSR0WCuI6nPj3PM6E3FeyQFP6IyIdH8EJbSKbdjCw=="
 }
