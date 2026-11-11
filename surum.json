@@ -1,9 +1,9 @@
 {
-  "surum": "2.42.1",
+  "surum": "2.43.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-11-11",
-  "not": "Programın arka sayfası tek sayfaya sığıyor (Hazırlayan ile çakışma yok); gerekçe cümleleri kısaltıldı ve düzeltildi.",
-  "boyut": 1114125,
-  "sha256": "367ab15b1c6a4da0b87d26bb9335f5a2180d0e8e051b0dbd5e6c97306fecde61",
-  "imza": "z1w3rq5clqYLCeC0dvVSsUTznQyTm+4LoYapkLT/keo4rdq2x7i/olje9Gkj/UfS23lUDtKUSk6HZK0ZGc6iBg=="
+  "not": "Sınıf geneline programda öğrencinin kişisel ayarları yok sayılır (istenirse “Öğrencinin kendi ayarları geçerli”); programda gün süresi rutinler hariç, açıklamasıyla.",
+  "boyut": 1114603,
+  "sha256": "97bb83aa728447f40866683c8f52b1a9f0feb6c3da500be7c20a749175a45d5a",
+  "imza": "kHjDUd8KHQpzQaam+slT8fQGgy2XvIzi53crbXnVsXRRmHxA/DLM4zWUxrP9sE2eCKVmsMkNuhCP8Y9IAzAPAg=="
 }
