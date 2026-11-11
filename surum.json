@@ -1,9 +1,9 @@
 {
-  "surum": "2.39.0",
+  "surum": "2.40.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-11-11",
-  "not": "Kişiye özel program: Dersler’de Türkçe ile Edebiyat ayrı seçilebilir.",
-  "boyut": 1112256,
-  "sha256": "7dcba7d707ca7b836ef114b9d618461abb99379a5a23c932199c9cc9f028cee8",
-  "imza": "CXx+kFWdqFUIPV1IgonKrgJyakN3LnuQFIS/8ehouOLLIrN8yB+fm8kRkeSeKU7WLER1A4YYlp6apQ6pXWOhBQ=="
+  "not": "TYT Türkçeye edebiyat konuları (Tiyatro, Öğretici Metinler…) karışmıyor; programda soru sayıları en az 20.",
+  "boyut": 1112672,
+  "sha256": "d4037b3b70b122696d0f9e69a7007dbdd2c6e17388c91417f9dc75c3f8eab4be",
+  "imza": "fbkZ9jEXsp1mgX8jtDKgIjiJX0DozYkR9NXWyG9KX0zQpu5gTFODizOw0cPEvRE+3c4sygqOPpox/+FZ8qvxCA=="
 }
