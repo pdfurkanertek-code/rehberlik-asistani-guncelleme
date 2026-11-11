@@ -1,9 +1,9 @@
 {
-  "surum": "2.38.0",
+  "surum": "2.39.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-11-11",
-  "not": "Deneme karnesinde “Bu denemeden sonra”: her deneme için kaçırılan konular, önceki denemeye göre düzelen/kötüleşen, bu hafta ne yapmalı ve tek tıkla programa ekleme.",
-  "boyut": 1111917,
-  "sha256": "32a626e778645920fde5cd864f6dfae6d130c53b5239b5110e922c80a14d4165",
-  "imza": "p6Voq6z/vk5lKUJRfobIqsxkhit8Y7HwAbox5JRkAv7nX+gMQQhhBDkvXBbR1e+isnEzaFUXx10AZVB9ExNYAQ=="
+  "not": "Kişiye özel program: Dersler’de Türkçe ile Edebiyat ayrı seçilebilir.",
+  "boyut": 1112256,
+  "sha256": "7dcba7d707ca7b836ef114b9d618461abb99379a5a23c932199c9cc9f028cee8",
+  "imza": "CXx+kFWdqFUIPV1IgonKrgJyakN3LnuQFIS/8ehouOLLIrN8yB+fm8kRkeSeKU7WLER1A4YYlp6apQ6pXWOhBQ=="
 }
