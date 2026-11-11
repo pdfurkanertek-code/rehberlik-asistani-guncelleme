@@ -1,9 +1,9 @@
 {
-  "surum": "2.43.1",
+  "surum": "2.43.2",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-11-11",
-  "not": "Programın arka sayfası aldığın günleri gösteriyor (9–10. sınıfta haftanın tamamını gösteriyordu).",
-  "boyut": 1114650,
-  "sha256": "3272f30a16e5a9d42801ae6f867fdbcefd2333ce1be1122e3b4be862375a4c13",
-  "imza": "FgU+vi9MmcWcwimAC/RRKwTY+NEcaJq3xEoFzo2cBz/pBae7YnpkvDdwSoipvD8uzR6kk+nnLmJ/WyrF5nPBAg=="
+  "not": "Ekrandaki öğrenci rehberi kartı da planın tüm günlerini gösteriyor (9–10’da yalnız bir haftayı sayıyordu).",
+  "boyut": 1114718,
+  "sha256": "7c6e91619b72a010a4ebeac5593a9dce61ac97c1bee8cb3ca8cd35126d4c9727",
+  "imza": "YpzF3ADoeUrZwEgHaMNQdXfsqKKNqa1r3LHkxXLss39YzPPgorrVasKPxjcyI++TSFqVFv0DmquOh2wsPzGpBQ=="
 }
