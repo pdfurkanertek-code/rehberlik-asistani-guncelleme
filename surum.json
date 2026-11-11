@@ -1,9 +1,9 @@
 {
-  "surum": "2.41.0",
+  "surum": "2.42.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-11-11",
-  "not": "Kişiye özel program kaç gün olursa olsun yatay şablonla basılır; arka sayfada “örnek plandır, ekleme çıkarma yapabilirsin” notu.",
-  "boyut": 1112921,
-  "sha256": "049538bf2adf44a5253444e937ea1fc59fb996bfd5100b806581f6836eda54fe",
-  "imza": "a1ZieJpNxuVc+ID/N/5EC4SYYir9dbdXdVkjn5WqjE5RJPiFxtr3lcJV4My8T7BNUGUOaudLyJIKt/6bziu2Cg=="
+  "not": "Sınıf görünümünde Adlı PDF artık kişiye özel programlarla açılıyor; öğrenci programlarını toplu silme; programın arka sayfası planın tüm günlerini kapsıyor.",
+  "boyut": 1113585,
+  "sha256": "4b25b57b4006adc8a192b42d50ff1654866f641c3e4c6e4385108c5dd90d0846",
+  "imza": "0hAPmdyiKdmaqWG+8Q7A7jR8mDEIsyWke1fFzi8n98gijN8M30gS4ZdaBvJNaxMaeJjaFBBo1hWNISyRXCFIBA=="
 }
