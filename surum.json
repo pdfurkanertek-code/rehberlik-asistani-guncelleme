@@ -1,9 +1,9 @@
 {
-  "surum": "2.43.0",
+  "surum": "2.43.1",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-11-11",
-  "not": "Sınıf geneline programda öğrencinin kişisel ayarları yok sayılır (istenirse “Öğrencinin kendi ayarları geçerli”); programda gün süresi rutinler hariç, açıklamasıyla.",
-  "boyut": 1114603,
-  "sha256": "97bb83aa728447f40866683c8f52b1a9f0feb6c3da500be7c20a749175a45d5a",
-  "imza": "kHjDUd8KHQpzQaam+slT8fQGgy2XvIzi53crbXnVsXRRmHxA/DLM4zWUxrP9sE2eCKVmsMkNuhCP8Y9IAzAPAg=="
+  "not": "Programın arka sayfası aldığın günleri gösteriyor (9–10. sınıfta haftanın tamamını gösteriyordu).",
+  "boyut": 1114650,
+  "sha256": "3272f30a16e5a9d42801ae6f867fdbcefd2333ce1be1122e3b4be862375a4c13",
+  "imza": "FgU+vi9MmcWcwimAC/RRKwTY+NEcaJq3xEoFzo2cBz/pBae7YnpkvDdwSoipvD8uzR6kk+nnLmJ/WyrF5nPBAg=="
 }
