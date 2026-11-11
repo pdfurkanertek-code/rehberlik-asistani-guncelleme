@@ -1,9 +1,9 @@
 {
-  "surum": "2.42.0",
+  "surum": "2.42.1",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-11-11",
-  "not": "Sınıf görünümünde Adlı PDF artık kişiye özel programlarla açılıyor; öğrenci programlarını toplu silme; programın arka sayfası planın tüm günlerini kapsıyor.",
-  "boyut": 1113585,
-  "sha256": "4b25b57b4006adc8a192b42d50ff1654866f641c3e4c6e4385108c5dd90d0846",
-  "imza": "0hAPmdyiKdmaqWG+8Q7A7jR8mDEIsyWke1fFzi8n98gijN8M30gS4ZdaBvJNaxMaeJjaFBBo1hWNISyRXCFIBA=="
+  "not": "Programın arka sayfası tek sayfaya sığıyor (Hazırlayan ile çakışma yok); gerekçe cümleleri kısaltıldı ve düzeltildi.",
+  "boyut": 1114125,
+  "sha256": "367ab15b1c6a4da0b87d26bb9335f5a2180d0e8e051b0dbd5e6c97306fecde61",
+  "imza": "z1w3rq5clqYLCeC0dvVSsUTznQyTm+4LoYapkLT/keo4rdq2x7i/olje9Gkj/UfS23lUDtKUSk6HZK0ZGc6iBg=="
 }
