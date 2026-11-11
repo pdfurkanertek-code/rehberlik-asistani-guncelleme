@@ -1,9 +1,9 @@
 {
-  "surum": "2.37.0",
+  "surum": "2.38.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-11-10",
-  "not": "Kişiye özel program: Görüşme formu (zayıf konular, kurs günleri, kaynak, hafif gün, not; şube için de), rehber sayfasında cümle gerekçeler ve görüşme bölümü.",
-  "boyut": 1107789,
-  "sha256": "849468bc0b3bb3310fb403f4800de5bd1112d303be5ce308601981d9dd2911d2",
-  "imza": "WM39pipYXJD6mZoVlDFkZkR9YkZwv0XzPg/sv3VaRPvvCcSR0WCuI6nPj3PM6E3FeyQFP6IyIdH8EJbSKbdjCw=="
+  "tarih": "2026-11-11",
+  "not": "Deneme karnesinde “Bu denemeden sonra”: her deneme için kaçırılan konular, önceki denemeye göre düzelen/kötüleşen, bu hafta ne yapmalı ve tek tıkla programa ekleme.",
+  "boyut": 1111917,
+  "sha256": "32a626e778645920fde5cd864f6dfae6d130c53b5239b5110e922c80a14d4165",
+  "imza": "p6Voq6z/vk5lKUJRfobIqsxkhit8Y7HwAbox5JRkAv7nX+gMQQhhBDkvXBbR1e+isnEzaFUXx10AZVB9ExNYAQ=="
 }
