@@ -1,9 +1,9 @@
 {
-  "surum": "2.40.0",
+  "surum": "2.41.0",
   "enAzKabuk": "2.11.0",
   "tarih": "2026-11-11",
-  "not": "TYT Türkçeye edebiyat konuları (Tiyatro, Öğretici Metinler…) karışmıyor; programda soru sayıları en az 20.",
-  "boyut": 1112672,
-  "sha256": "d4037b3b70b122696d0f9e69a7007dbdd2c6e17388c91417f9dc75c3f8eab4be",
-  "imza": "fbkZ9jEXsp1mgX8jtDKgIjiJX0DozYkR9NXWyG9KX0zQpu5gTFODizOw0cPEvRE+3c4sygqOPpox/+FZ8qvxCA=="
+  "not": "Kişiye özel program kaç gün olursa olsun yatay şablonla basılır; arka sayfada “örnek plandır, ekleme çıkarma yapabilirsin” notu.",
+  "boyut": 1112921,
+  "sha256": "049538bf2adf44a5253444e937ea1fc59fb996bfd5100b806581f6836eda54fe",
+  "imza": "a1ZieJpNxuVc+ID/N/5EC4SYYir9dbdXdVkjn5WqjE5RJPiFxtr3lcJV4My8T7BNUGUOaudLyJIKt/6bziu2Cg=="
 }
