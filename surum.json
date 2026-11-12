@@ -1,9 +1,9 @@
 {
-  "surum": "2.43.2",
+  "surum": "2.44.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-11-11",
-  "not": "Ekrandaki öğrenci rehberi kartı da planın tüm günlerini gösteriyor (9–10’da yalnız bir haftayı sayıyordu).",
-  "boyut": 1114718,
-  "sha256": "7c6e91619b72a010a4ebeac5593a9dce61ac97c1bee8cb3ca8cd35126d4c9727",
-  "imza": "YpzF3ADoeUrZwEgHaMNQdXfsqKKNqa1r3LHkxXLss39YzPPgorrVasKPxjcyI++TSFqVFv0DmquOh2wsPzGpBQ=="
+  "tarih": "2026-11-12",
+  "not": "10. sınıfta 9. sınıf konuları tik ile seçiliyor; 9–10 programı daha doğal (her gün Matematik konuyla, ilk gün telafi yok, günde bir sözel, 9. sınıf konusu “tekrar”).",
+  "boyut": 1115414,
+  "sha256": "7032247ac054c182421a0e8e9cc2ae39101f544b4b91bf463d52daaaba36e9f1",
+  "imza": "qGX8uPZEYe45RTQVBfBVtMjbaLK/4f+3wfQgOToZymKC6ygNBajyqs7/f/0kGfdC8GwBY+Xm28Kny72VkxM/BQ=="
 }
