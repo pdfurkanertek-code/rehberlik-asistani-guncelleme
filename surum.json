@@ -1,9 +1,9 @@
 {
-  "surum": "2.44.0",
+  "surum": "2.45.0",
   "enAzKabuk": "2.11.0",
-  "tarih": "2026-11-12",
-  "not": "10. sınıfta 9. sınıf konuları tik ile seçiliyor; 9–10 programı daha doğal (her gün Matematik konuyla, ilk gün telafi yok, günde bir sözel, 9. sınıf konusu “tekrar”).",
-  "boyut": 1115414,
-  "sha256": "7032247ac054c182421a0e8e9cc2ae39101f544b4b91bf463d52daaaba36e9f1",
-  "imza": "qGX8uPZEYe45RTQVBfBVtMjbaLK/4f+3wfQgOToZymKC6ygNBajyqs7/f/0kGfdC8GwBY+Xm28Kny72VkxM/BQ=="
+  "tarih": "2026-11-15",
+  "not": "Çalışma programı: şube görünümünde Şifreli PDF ile kişiye özel programı veliye dağıtma; şifresiz tek tek gönderim seçeneği",
+  "boyut": 1120596,
+  "sha256": "2c25b71b994dc8bae5bb828fbe9ea315a9ba73d4e62cf4168a32068732e98bea",
+  "imza": "G65uCQn03RCMDV+dyZ04nMsvIr/EOqhxqiR5PcBfg4GGMDKTY+3dau+JmLxDzuZDDtc/+1e1goOtqNX0Yg2MCg=="
 }
